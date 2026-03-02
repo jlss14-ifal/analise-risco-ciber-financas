@@ -89,3 +89,65 @@ A Inteligência Artificial foi essencial nesta análise para sintetizar centenas
 - [Assessment of Financial Risks Arising from Cybersecurity Threats in a Small IT Company](https://www.theseus.fi/handle/10024/906653)
 - [Securing data and preserving privacy in cloud IoT-based technologies an analysis of assessing threats and developing effective safeguard](https://link.springer.com/article/10.1007/s10462-024-10908-x)
 - [Mapping Cyber-Financial Risk Profiles: Implications for European Cybersecurity and Financial Literacy](https://www.mdpi.com/2227-9091/12/12/200)
+
+---
+
+### Prompt utilizado para gerar o Mini-Guia:
+
+```markdown
+Papel:
+Atue como pesquisador especializado em gestão de riscos financeiros e cibersegurança aplicada a micro e pequenas empresas (MEI, pequenas e médias empresas). Seja analítico, crítico e prático, com foco em aprendizagem ativa.
+
+Contexto:
+Utilize exclusivamente as fontes fornecidas neste caderno para analisar o tema:
+“Introdução à Análise de Riscos Financeiros Relacionados à Cibersegurança em MEI, Pequenas e Médias Empresas”.
+Quando necessário, adapte conceitos de estudos gerais (ex.: Fintech ou cidadãos europeus) para o contexto de pequenas empresas brasileiras, deixando claro que se trata de adaptação prática.
+
+Objetivo:
+Construir um mini-guia de estudo estruturado que:
+- Relacione ameaças cibernéticas a impactos financeiros específicos em MEI/MPEs.
+- Promova aprendizagem ativa e pensamento crítico.
+- Seja claro, legível e aplicável na prática diária de pequenas empresas.
+
+Tarefas:
+
+1. **Objetivos de Estudo Progressivos:** Defina 4 a 6 objetivos que evoluam do conceitual ao aplicado e crítico, indicando a progressão de aprendizado.
+
+2. **Resumo Estruturado:** Organize em seções com subtítulos claros:
+   - Conceitos fundamentais (definições de risco, CIA, vulnerabilidades)
+   - Modelos ou métodos de avaliação de risco (incluindo probabilidade × impacto, análises qualitativas e quantitativas simples)
+   - Tipos de riscos cibernéticos com impacto financeiro (ex.: phishing, ransomware, falhas na nuvem, ataques à cadeia de suprimentos)
+   - Estratégias de mitigação viáveis para MEI/MPEs (baixo custo, priorizando tempo, treinamento e processos simples)
+
+3. **Glossário:** Liste os principais conceitos técnicos e financeiros encontrados nas fontes, com explicações claras e exemplos práticos.
+
+4. **Perguntas Estratégicas:** Crie 8–12 perguntas que estimulem análise crítica, comparação entre fontes e aplicação prática (ex.: estudo de caso, análise de impactos financeiros).
+
+5. **Prompts Reutilizáveis:** Proponha 6 prompts que permitam revisar ou atualizar o guia futuramente, incluindo adaptação de mitigação, estudo de novos riscos ou atualização de impactos financeiros.
+
+6. **Referências Explícitas:** Para cada afirmação ou conceito relevante, indique claramente a fonte de origem e, se houver adaptação, explique que se trata de adaptação prática.
+
+7. **Exemplos Numéricos (quando aplicável):** Sempre que possível, forneça exemplos numéricos de impacto financeiro para MEI/MPEs (ex.: perda de faturamento em dias de indisponibilidade, custos de multas ou recuperação).
+
+8. **Reflexão sobre IA:** Inclua uma seção breve avaliando como a IA ajudou a organizar, analisar ou sintetizar o conteúdo, quais limitações foram percebidas e como o prompt foi refinado para gerar melhores resultados.
+
+Critérios de Qualidade:
+- Linguagem clara, objetiva e acessível (princípios de legibilidade)
+- Frases curtas e voz ativa
+- Estrutura lógica com títulos, subtítulos e listas
+- Aplicabilidade prática para MEI/MPEs
+- Referências explícitas e distinção entre fonte e adaptação
+- Inclusão de exemplos financeiros quando possível
+- Demonstração de pensamento crítico e aprendizagem ativa
+
+Formato da Resposta:
+Organize o mini-guia com:
+- Introdução
+- Objetivos de estudo
+- Resumo estruturado
+- Glossário
+- Perguntas estratégicas
+- Prompts reutilizáveis
+- Reflexão sobre uso da IA
+Use títulos claros, subtítulos e listas para facilitar leitura e revisão.
+```
